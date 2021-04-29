@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aluisjaramillo
+- 👋 Hi, I’m Angel Jaramillo
 - 👀 I’m interested in data science, data visualization, machine learning and deep learning.
 - 🌱 I’m currently learning python programming and javascript
 - 💞️ I’m looking to collaborate on a data science project to improve my skills.
